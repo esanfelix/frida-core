@@ -1,0 +1,1 @@
+option('enable_diet', type: 'boolean', value: false)
